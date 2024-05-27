@@ -5,13 +5,10 @@ This shell script monitors the health of specified services on a Unix-like syste
 #!/bin/bash
 
 # List of services to check
-services=(
-  "nginx"
-  "ssh"
-)
+service="ssh"
 
 # Email settings
-EMAIL="hameed.a@xcelcorp.com"
+EMAIL="demo@example.com"
 SUBJECT="Service Health Alert"
 
 if systemctl is-active --quiet "$service"; then
