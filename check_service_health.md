@@ -7,14 +7,9 @@ This shell script monitors the health of specified services on a Unix-like syste
 # List of services to check
 service="ssh"
 
-# Email settings
-EMAIL="demo@example.com"
-SUBJECT="Service Health Alert"
-
 if systemctl is-active --quiet "$service"; then
       echo "Service $service is running."
     else
       echo "Service $service is not running!"
-      echo "Service $service is not running!" | mail -s "$SUBJECT" "$EMAIL"
     fi
 ```
