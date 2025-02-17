@@ -8,19 +8,19 @@
 
   | File Name                           | Description                                        |
   | ----------------------------------- | -------------------------------------------------- |
-  | [Automaticpackageupdates.md](https://github.com/Hameed-Akshal/cron-job/blob/main/Automaticpackageupdates.md)      | Automates system package updates.                  |
-  | [DatabaseComparison.md]()           | Compares different database states or versions.    |
-  | [Databasebackupscript.md]()         | Script for database backups.                       |
-  | [Email\_Notify.md]()                | Sends email notifications based on system events.  |
-  | [HTTPResponsetimesmeasurement.md]() | Monitors HTTP response times.                      |
-  | [Listeningportscheck.md]()          | Checks for open and listening ports on the system. |
-  | [Systemuptimecheck.md]()            | Script to check system uptime.                     |
-  | [check\_service\_health.md]()       | Monitors the health status of system services.     |
-  | [diskusage.md]()                    | Reports disk usage statistics.                     |
-  | [monitor-system.md]()               | General system monitoring script.                  |
-  | [networkconnectivitycheck.md]()     | Checks network connectivity.                       |
+  | [Automaticpackageupdates](https://github.com/Hameed-Akshal/cron-job/blob/main/Automaticpackageupdates.md)      | Automates system package updates.                  |
+  | [DatabaseComparison](https://github.com/Hameed-Akshal/cron-job/blob/main/DatabaseComparison.md)           | Compares different database states or versions.    |
+  | [Databasebackupscript](https://github.com/Hameed-Akshal/cron-job/blob/main/Databasebackupscript.md)         | Script for database backups.                       |
+  | [Email\_Notify](https://github.com/Hameed-Akshal/cron-job/blob/main/Email_Notify.md)                | Sends email notifications based on system events.  |
+  | [HTTPResponsetimesmeasurement](https://github.com/Hameed-Akshal/cron-job/blob/main/HTTPresponsetimesmeasurement.md) | Monitors HTTP response times.                      |
+  | [Listeningportscheck](https://github.com/Hameed-Akshal/cron-job/blob/main/Listeningportscheck.md)          | Checks for open and listening ports on the system. |
+  | [Systemuptimecheck](https://github.com/Hameed-Akshal/cron-job/blob/main/Systemuptimecheck.md)            | Script to check system uptime.                     |
+  | [check\_service\_health](https://github.com/Hameed-Akshal/cron-job/blob/main/check_service_health.md)       | Monitors the health status of system services.     |
+  | [diskusage](https://github.com/Hameed-Akshal/cron-job/blob/main/diskusage.md)                    | Reports disk usage statistics.                     |
+  | [monitor-system](https://github.com/Hameed-Akshal/cron-job/blob/main/monitor-system.md)               | General system monitoring script.                  |
+  | [networkconnectivitycheck](https://github.com/Hameed-Akshal/cron-job/blob/main/networconnecttivitycheck.md)     | Checks network connectivity.                       |
 
 ## 🚀 **Usage**
 
-### Each script file contains instructions on how to use it. Click on the respective links above to explore more.For any questions, feel free to raise an issue or contribute!
+### Each script file contains instructions on how to use it. Click on the respective links above to explore more. For any questions, feel free to raise an issue or contribute!
 
