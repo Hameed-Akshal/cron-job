@@ -1,10 +1,26 @@
-## Installing Cron
-sudo yum install cronie  # For Amazon Linux 2
-## Open the crontab for editing
-crontab -e
-## Add the following line to the crontab:
-@reboot sudo chmod 666 /var/run/docker.sock
-## To configure sudo to allow a specific command without a password prompt for your user in the sudoers file
-sudo visudo
-## Add the following line to the sudoers file, replacing <username> with your actual username:
-<username> ALL=(ALL) NOPASSWD: /bin/chmod 666 /var/run/docker.sock
+# 📌 **Server Setup and Monitoring Scripts**
+
+#### This repository contains various scripts and documentation for automating server setup, monitoring system health, and performing maintenance tasks.
+
+## 📂 **Contents**
+
+### Below is the list of available scripts and their descriptions:
+
+  | File Name                           | Description                                        |
+  | ----------------------------------- | -------------------------------------------------- |
+  | [Automaticpackageupdates.md]()      | Automates system package updates.                  |
+  | [DatabaseComparison.md]()           | Compares different database states or versions.    |
+  | [Databasebackupscript.md]()         | Script for database backups.                       |
+  | [Email\_Notify.md]()                | Sends email notifications based on system events.  |
+  | [HTTPResponsetimesmeasurement.md]() | Monitors HTTP response times.                      |
+  | [Listeningportscheck.md]()          | Checks for open and listening ports on the system. |
+  | [Systemuptimecheck.md]()            | Script to check system uptime.                     |
+  | [check\_service\_health.md]()       | Monitors the health status of system services.     |
+  | [diskusage.md]()                    | Reports disk usage statistics.                     |
+  | [monitor-system.md]()               | General system monitoring script.                  |
+  | [networkconnectivitycheck.md]()     | Checks network connectivity.                       |
+
+## 🚀 **Usage**
+
+### Each script file contains instructions on how to use it. Click on the respective links above to explore more.For any questions, feel free to raise an issue or contribute!
+
