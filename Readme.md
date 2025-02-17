@@ -18,7 +18,8 @@
   | [check\_service\_health](https://github.com/Hameed-Akshal/cron-job/blob/main/check_service_health.md)       | Monitors the health status of system services.     |
   | [diskusage](https://github.com/Hameed-Akshal/cron-job/blob/main/diskusage.md)                    | Reports disk usage statistics.                     |
   | [monitor-system](https://github.com/Hameed-Akshal/cron-job/blob/main/monitor-system.md)               | General system monitoring script.                  |
-  | [networkconnectivitycheck](https://github.com/Hameed-Akshal/cron-job/blob/main/networconnecttivitycheck.md)     | Checks network connectivity.                       |
+  | [networkconnectivitycheck](https://github.com/Hameed-Akshal/cron-job/blob/main/networconnecttivitycheck.md)     | Checks network connectivity.                       | 
+  | [docker_socket_cron](https://github.com/Hameed-Akshal/cron-job/blob/main/docker_socket_cron.md) | Guide to setting up a cron job to modify Docker socket permissions at reboot. | 
 
 ## 🚀 **Usage**
 
